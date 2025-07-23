@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deeptalk buddies</title>
+</head>
+<body style="background-color:lightpink;">
+    
+    <h2>Birthday kau...</h2>
+    <p>Mcm awal sgt tp x pe.. Agak cringe(?)</p>
+    <p>Tap 👇🏻 </p>
+    <button onclick="showMessage()">⚠️</button>
+
+    <script>
+        function showMessage() {
+            alert("Happy Birthday Ary. Sorry la x de modal la nk bgi hadiah mahal²🙏🏻. Btw, i really want to thank you for being my friend (?)😶‍🌫️. Sorry la kalau aku ade buat salah pape. Jgn simpan² kalau ade masalah, bgtau la aku kalau nk. Tu Je la kot. Skali lagi,Happy Birthday Aryy🎉🎉. Sorry tauu.   - Deeptalk buddies");
+    
+        }
+    </script>
+</body>
+</html>
